@@ -16,12 +16,6 @@ It supports basic arithmetic operations such as *Addition, Subtraction, Multipli
 
 ---
 
-## 📸 Screenshot
-
-![Calculator Screenshot](Screenshot 2025-11-18 221119.png)
-
----
-
 ## 🛠 Technologies Used
 - *Python 3*
 - *Tkinter* (for GUI)
